@@ -68,7 +68,7 @@ vcpkg_installed/
 Testing/
 .cache/
 test/
-cmake/*
+cmake/**
 .vscode/
 src/.vscode/
 src/main/
