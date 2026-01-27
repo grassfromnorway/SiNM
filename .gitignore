@@ -71,5 +71,6 @@ test/
 cmake/*
 .vscode/
 src/.vscode/
-src/main
+src/main/
 build/
+make/
