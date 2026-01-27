@@ -74,3 +74,4 @@ src/.vscode/
 src/main/
 build/
 make/
+!cmake/.gitkeep
