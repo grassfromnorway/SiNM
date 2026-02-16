@@ -26,6 +26,15 @@ Version 1.0.0 is simply a MVP of the project that i made over the weekend. More 
 - - Easier screenshot UI managing
 - Much, much more.
 
+### How to build
+ 1. Pull the github repo locally
+ 2. Open your terminal and change directories into your CMake folder
+ 3. Run ```cmake ..``` to build the make files
+ 4. Run ```make``` to build the executable
+ 5. Run ```./SiNM``` in order to execute the program
+
+ I suggest running it in the background with the & symbol after ```./SiNM&```, and if there's any debug prints (shouldn't be) pipe it into /dev/null
+
 ### License
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0). 
 
