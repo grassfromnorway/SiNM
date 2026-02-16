@@ -24,7 +24,13 @@ find_package(Qt6 COMPONENTS Core Widgets REQUIRED)
 add_executable(${PROJECT_NAME}
     src/main.cpp
     src/mainwindow.cpp
+    src/dbg.cpp
+    src/screenshotwindow.cpp
+    src/imagewindow.cpp
     include/mainwindow.h
+    include/dbg.h
+    include/screenshotwindow.h
+    include/imagewindow.h
 )
 
 
